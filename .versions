@@ -1,7 +1,7 @@
 babel-compiler@6.8.3
 babel-runtime@0.1.9_1
-dispatch:mocha-phantomjs@0.1.7
-dispatch:phantomjs-tests@0.0.5
+dispatch:mocha-phantomjs@0.1.8
+dispatch:phantomjs-tests@0.0.6
 ecmascript@0.4.6_1
 ecmascript-runtime@0.2.11_1
 meteor@1.1.15_1
