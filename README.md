@@ -12,6 +12,8 @@ In a Meteor 1.3+ app directory:
 meteor add dispatch:mocha-phantomjs
 ```
 
+NOTE: The PhantomJS package is a binary dependency, so you should also run `meteor npm rebuild` after installing if you are not on Mac OSX. See https://guide.meteor.com/v1.4/1.4-migration.html#binary-packages-require-build-toolchain
+
 ## Run app unit tests
 
 ```bash
