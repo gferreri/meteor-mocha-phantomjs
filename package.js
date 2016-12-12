@@ -15,7 +15,7 @@ Package.onUse(function (api) {
   ]);
 
   api.use([
-    'dispatch:phantomjs-tests@0.0.7'
+    'dispatch:phantomjs-tests@0.0.5'
   ], 'server');
 
   api.mainModule('client.js', 'client');
